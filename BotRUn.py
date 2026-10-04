@@ -289,4 +289,4 @@ async def weather_slash(interaction: discord.Interaction, location: str):
     await send_weather_embed(interaction.followup, location)  # Use followup to send messages
 
 
-bot.run("MTU1NjI0OTA3ODU0OTk3OTI2Nw.GUHhgg.RZcWWcn19dJo5A5fRaaGgn8_fgh5RxSNrRUeJg")
+bot.run("Token")
